@@ -1,0 +1,58 @@
+#increment-btn {
+    background: darkred;
+}
+body {
+    background-image: url("./train-platform.jpg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
+img {
+    opacity: 0.5;
+}
+body{
+    align-items: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+h2{
+    color:white
+}
+.container{
+    position :relative;
+    text-align: center;
+    color:white
+}
+
+.centered{
+    position: absolute;
+    top :50%;
+    left:50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+}
+#save-el{
+    color:white
+}
